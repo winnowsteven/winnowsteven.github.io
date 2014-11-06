@@ -30,5 +30,4 @@ echo "We've recived your contact information";
 else {
 echo "ERROR";
 }
-header("Location: http://www.AnalyticsTraining.Guru");
 ?>
